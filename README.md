@@ -1,4 +1,4 @@
-# NEWS NERD SURVEY
+# News Nerd Survey
 
 We want to learn more about our community of practice -- namely, people who code, crunch data, design interactive tools, present journalism, or manage people who do these things, in and around newsrooms.
 
@@ -8,4 +8,4 @@ In the meantime, send us your unvarnished thoughts. What sucks? What and who are
 
 Right now, things are divided into two questionnaires: One, [a census](census.md) that would go out to a single contact person at as many newsrooms as possible so we know we're getting a reliable count. Second, a more [qualitative survey](survey.md) designed to be answered by everybody.
 
-This survey is currently being shepherded by Scott Klein from ProPublica, Brian Hamman from The New York Times, and Dan Sinker and Erika Owens from OpenNews.
+_This project is currently being shepherded by Scott Klein from ProPublica, Brian Hamman from The New York Times, and Dan Sinker and Erika Owens from OpenNews._
