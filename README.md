@@ -19,8 +19,10 @@
                                            \/__/
 ```
 
-We want to learn more about our community of practice -- namely, teams that do news applications, editorial products, interactive graphics, CAR, data journalism, etc. How many are we? What kind of teams do we work on? What reporting structure do we follow and how do we organize our work? What works and what do we wish was different? How were we trained?
+We want to learn more about our community of practice -- namely, people who code, crunch data, design interactive tools, present journalism, or manage people who do these things, in and around newsrooms.
 
-The plan is to edit the first survey down a bit and to send it out to via as many channels as we can and get as many people to take it as possible. We want to know how individual nerds see themselves, their roles in the universe, their challenges, and what they wish was different. We’ll present those findings at SRCCON. The second one below will be a bit harder -- it’s an attempt at a real census of nerds. Maybe we do this together with Pew, maybe we branch out on our own. I know OpenNews has been itching to do one of these and might have a little dough to pull it off. We’d send the second questionnaire later this year, after spending time perfecting it and learning some lessons from the first survey, to individual CTOs and editors at news organizations so we know we’re getting unduplicated results and can say something vaguely authoritative.
+We're not done thinking about what questions we want to ask. We know we've got way too many of them here. But we think it should include things like: How many are we? What kind of teams do we work on? What reporting structure do we follow and how do we organize our work? What works and what do we wish was different? We're planning to get some help coming up with the right questions at SRCCON and at ONA and then to field the survey later this year.
 
-What we need from y’all is your unvarnished thoughts. What sucks? What and who are we missing? Is the first one too long? If so, what questions should we skip?
+In the meantime, send us your unvarnished thoughts. What sucks? What and who are we missing? Is the first one too long? If so, what questions should we skip? Pull requests and Github issues are welcome.
+
+Right now, things are divided into two questionnaires: One, [a census](census.md) that would go out to a single contact person at as many newsrooms as possible so we know we're getting a reliable count. Second, a more [qualitative survey](survey.md) designed to be answered by everybody.
