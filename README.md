@@ -9,3 +9,19 @@ In the meantime, send us your unvarnished thoughts. What sucks? What and who are
 Right now, things are divided into two questionnaires: One, [a census](census.md) that would go out to a single contact person at as many newsrooms as possible so we know we're getting a reliable count. Second, a more [qualitative survey](survey.md) designed to be answered by everybody.
 
 _This project is currently being shepherded by Scott Klein from ProPublica, Brian Hamman from The New York Times, and Dan Sinker and Erika Owens from OpenNews._
+
+## License
+
+These surveys are copyright 2015 Scott Klein and Brian Hamman, and are licensed under a [Creative Commons BY-NC 3.0](http://creativecommons.org/licenses/by-nc/3.0/) license. You are free to share and to remix them, though not to use them commercially without permission.
+
+## Discuss
+
+You can submit issues using [Github Issues](https://github.com/kleinmatic/news-nerd-survey/issues).
+
+## Contribute
+
+1. Fork it
+2. Create your branch (`git checkout -b my-survey`)
+3. Commit your changes (`git commit -am "Proposed Change"`)
+4. Push your branch (`git push origin my-survey`)
+5. Send a pull request
