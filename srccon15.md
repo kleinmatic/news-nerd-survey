@@ -1,4 +1,6 @@
-On June 26, Scott and Brian led a session at srccon in Minneapolis and asked people to submit five things they wanted to know about the community. What follows is what people who attended the session wrote. 
+On June 26, Scott and Brian led a session at SRCCON in Minneapolis, at which we asked people to write down something they wanted to know about the community. What follows is what session attendees wrote. 
+
+These are taken more or less verbatim from sticky notes.
 
 - Seniority within organization (entry level, exec, middle management)
 - How long has your job description existed?
@@ -6,3 +8,112 @@ On June 26, Scott and Brian led a session at srccon in Minneapolis and asked peo
 - Job descriptions
 - Are you having an identity crisis? (i.e., are you clear about what your purpose is at work day-to-day?)
 - Are you happy?
+- Do people really care?
+- What's up?
+- How often do you tweet?
+- How do you keep going?
+- Why are we doing this?
+- Are you now or have you ever been a member of the Communist Party?
+- Who reads HTML comments anyway?
+- Are you a remote worker?
+- Do you work remotely?
+- Why aren't there more remote positions?
+- How did you learn what you know?
+- What tool do you use?
+- What do we do when we are not coding (aka non-coding free time)?
+- What does your boss do?
+- Did you have a journo background?
+- Current role x aspirte to role
+- What is holding you back?
+- How do you learn new technologies / languages / frameworks?
+- How many other social / data / web / metrics / non-coder generalists are out there?
+- If I don't code do I still count?
+- Is your org remote friendly? (why? why not?)
+- Typical career path(s)
+- Educational / training / professional background; basically, how did you learn to do what you do?
+- How were the tools / languages / processes you use selected?
+- How do you pick workflow / languages / tools?
+- Background
+- What are you core skills?
+- What coding languages are your products in?
+- How do you spend your time (coding x reporting x designing x etc)
+- What got you "into" news technology?
+- Do you have a degree? In what?
+- How do you contribute back to open source?
+- Why no open source?
+- Should we learn this from j-school?
+- Python or Ruby?
+- What's the worflow of the newsroom?
+- What skills are present / needed on your team?
+- What does your team need most?
+- Are the requirements for your job clear?
+- Will there be clearer role definition or more hybrid than now?
+- How big is your team?
+- How are competing or collaborative interests of biz, tech, and editorial managed at your organization?
+- Avg. duration of projects
+- What's your typical project timeline?
+- When was your last performance review?
+- U scared?
+- My role is important and respected at my organization
+- How do we measure our success?
+- What would it take for you to leave New York City?
+- How many different roles in your career -- what?
+- Would you consider changing jobs if you could use a nicer CMS?
+- Worst CMS hatred
+- How do you shrink print tastefully, successfully and do / hire more web?
+- Why is Derek Jeter so overrated?
+- Cake or pie?
+- Which is worse? Ninja, Unicorn, Wizard, Jedi, Rock Star
+- Do you endorse or hate the use of "unicorn"?
+- Hate everyone?
+- How do we escape an unhappy situation?
+- Do homepages matter?
+- How do we be happy?
+- How many managers or editors on a project?
+- Who does your job / fills in for you when you are on vacation?
+- What job could you be promoted to?
+- Self perceived level of skill
+- Is your manager capable of doing the things you can do?
+- Is your manager less technical, more technical or the same as you?
+- General department / reporting line (e.g., editorial, product, IT)
+- What are the demographics of your leadership?
+- When do you wake up?
+- What are you paid? $$$
+- Avg Pay
+- Do you work more than 40 hrs / week?
+- How much $ do you make?
+- How much are you paid?
+- What's the range of salaries on your team?
+- What's your current salary?
+- Do you have time for outside / volunteer or freelance work? (if you work full time)
+- Do you get enough support from your org?
+- What is the career prospect for personal development?
+- How many times have you changed careers?
+- How old are you?
+- Demographics by type of job
+- Is your supervisor a guy?
+- How many women are there in the company, and how does their pay & positions relate to the average?
+- How is  your org funded / making $$$ (somebody added a +1)
+- How much revenue does your company make?
+- Millenials are: 1980 ->, 1985 ->, 1990, 1995 -> Snake people ->
+- Do you have a budget?
+- Average duration at a job
+- Do you check email / slack / etc. on nights / weekends?
+- What's the diversity like in their team?
+- How are women managers perceived?
+- Team Structure
+- What do people most misunderstand about who you are and what you do?
+- What do you see as key values in your work? Way you approach news, tech, etc.?
+- Where do you see yourself in five years?
+- How long have you been at your current job?
+- Are you the first person to do your job?
+- Where do you learn?
+- What kind of work do you aspire to do?
+- How do you measure success?
+- Are you part of the newsroom?
+- How do you expect your org to change in 5 years?
+- How do people see their org in 5 years?
+- What is your job?
+- Do you see your job existing in 5 years?
+- Where you specifically trained for your job?
+- Who's your "role model" in the industry?
