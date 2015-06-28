@@ -1,4 +1,4 @@
-On June 26, Scott and Brian led a session at SRCCON in Minneapolis, at which we asked people to write down something they wanted to know about the community. What follows is what session attendees wrote. 
+On June 26, Scott and Brian led a session at SRCCON in Minneapolis, at which we asked people to write down the questions they most wanted to ask the community. What follows is what attendees wrote. 
 
 These are taken more or less verbatim from sticky notes.
 
