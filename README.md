@@ -15,7 +15,7 @@ _This project is currently being shepherded by Scott Klein from ProPublica, Bria
 
 We hosted two conference sessions to gather community input in 2015. We asked participants to brainstorm questions they would like to ask and we did a live survey of the participants.
 
-* [SRCCON](http://schedule.srccon.org/#_session-55): [session transcript](http://srccon.org/docs/transcripts/survey/), [questions brainstormed](/news-nerd-survey/blob/master/srccon_organized.md) by participants, results of the [live survey](/news-nerd-survey/blob/master/srccon_questions.md)
+* [SRCCON](http://schedule.srccon.org/#_session-55): [session transcript](http://srccon.org/docs/transcripts/survey/), [questions brainstormed](/srccon_organized.md) by participants, results of the [live survey](/srccon_questions.md)
 * [ONA](http://ona15.journalists.org/sessions/journo-techcommunity/): audio, questions, and survey results to come soon.
 
 This input will help us shape the development of a survey that will be sent to the entire community, hopefully in early 2016.
